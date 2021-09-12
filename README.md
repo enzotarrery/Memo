@@ -1,5 +1,3 @@
-# enzotarrery.github.io
-
 # Symfony
 
 Les commandes indispensables :
@@ -9,7 +7,7 @@ Les commandes indispensables :
   - composer require validator orm orm-fixtures admin form twig annotations security
   - (php) bin/console doctrine:database:create
   - (php) bin/console make:migration
-  - (php) bin/console d:m:m
+  - (php) bin/console d:<zero-width-space>m:m
   - (php) bin/console make:form (NomForm)
   - (php) bin/console make:controller
   - (php) bin/console make:entity
