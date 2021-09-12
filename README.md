@@ -1,3 +1,7 @@
+# Introduction
+
+This is a memo so that i can remember every basic command i would surely need in the future since my brain has no storage and seems to be working only with RAM... :)
+
 # Symfony
 
 Les commandes indispensables :
