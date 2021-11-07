@@ -12,6 +12,9 @@
   "editor.fontSize": 20,
   "editor.lineHeight": 30,
   "editor.fontFamily": "JetBrains Mono",
+  "emmet.includeLanguages": {
+    "[twig]": "html"
+  },
   "prettier.endOfLine": "auto",
   "prettier.jsxSingleQuote": true,
   "prettier.singleQuote": true,
@@ -27,5 +30,9 @@
   "typescript.format.placeOpenBraceOnNewLineForControlBlocks": false,
   "typescript.format.placeOpenBraceOnNewLineForFunctions": false,
   "typescript.preferences.quoteStyle": "single",
-  "yaml.format.singleQuote": true
+  "yaml.format.singleQuote": true,
+  "vs-kubernetes": {
+    "vscode-kubernetes.minikube-path.windows": "C:\\Users\\enzot\\.vs-kubernetes\\tools\\minikube\\windows-amd64\\minikube.exe",
+    "vscode-kubernetes.helm-path.windows": "C:\\Users\\enzot\\.vs-kubernetes\\tools\\helm\\windows-amd64\\helm.exe"
+  }
 }
