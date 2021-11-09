@@ -1,0 +1,27 @@
+# List of my favorite VSCode extensions
+
+- Auto Complete Tag (Auto Close Tag + Auto Rename Tag)
+- Bracket Pair Colorizer 2
+- Code Runner
+- CSS Peek
+- Docker
+- DotENV
+- ESLint
+- File Downloader
+- Git Graph
+- IntelliSense for CSS for class names in HTML
+- Material Icon Theme
+- One Dark Pro
+- PHP Debug
+- PHP Intelephense
+- Prettier
+- Pylance
+- Python
+- Reactjs code snippets
+- Remote - Containers
+- SQLTools
+- SQLTools MySQL/MariaDB
+- TWIG
+- Vetur
+- Vue 3 Snippets
+- YAML
