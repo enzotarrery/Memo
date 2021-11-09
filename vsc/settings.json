@@ -1,5 +1,4 @@
 {
-  "cmake.configureOnOpen": true,
   "redhat.telemetry.enabled": false,
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "workbench.colorTheme": "One Dark Pro",
@@ -30,9 +29,5 @@
   "typescript.format.placeOpenBraceOnNewLineForControlBlocks": false,
   "typescript.format.placeOpenBraceOnNewLineForFunctions": false,
   "typescript.preferences.quoteStyle": "single",
-  "yaml.format.singleQuote": true,
-  "vs-kubernetes": {
-    "vscode-kubernetes.minikube-path.windows": "C:\\Users\\enzot\\.vs-kubernetes\\tools\\minikube\\windows-amd64\\minikube.exe",
-    "vscode-kubernetes.helm-path.windows": "C:\\Users\\enzot\\.vs-kubernetes\\tools\\helm\\windows-amd64\\helm.exe"
-  }
+  "yaml.format.singleQuote": true
 }
