@@ -9,7 +9,7 @@ This is a memo so that I can remember every basic command I would surely need in
   - composer require validator asset orm orm-fixtures admin form twig annotations security
   - (php) bin/console doctrine:database:create
   - (php) bin/console make:migration
-  - (php) bin/console d:<zero-width-space>m:m
+  - (php) bin/console doctrine:migrations:migrate (d:<zero-width-space>m:m)
   - (php) bin/console make:form (FormName)
   - (php) bin/console make:controller
   - (php) bin/console make:entity
